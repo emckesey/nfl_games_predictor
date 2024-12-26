@@ -7,6 +7,7 @@ This repository contains a notebook with a detailed analysis on NFL data between
 Details on the execution of the notebook can also be found on this [Kaggle link](https://www.kaggle.com/code/eduardomckesey/nfl-games-predictive-model).
 
 Uploaded on: 26/12/2024
+
 Packages used:
 - NumPy
 - Pandas
